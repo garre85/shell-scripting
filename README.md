@@ -2,6 +2,9 @@
 
 
 Shell-scripting Topics
- ....text
-   --->List of topic
- ....text
+ 
+...text
+1.Printing
+2.Editing
+3.comiting
+...text
