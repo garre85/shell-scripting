@@ -1,7 +1,6 @@
 Learn-shell
-# shell-scripting Topics 
 
-
+shell-scripting Topics
 ```text
 1. Printing
 2. Comments
